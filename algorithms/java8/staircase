@@ -1,0 +1,24 @@
+    static void staircase(int n) {
+
+        //Number of characteres is equal to the size, which is n;
+
+        //Number of # is equal to i
+
+        for(int i=1;i<=n;i++){
+
+            int step = 1;
+
+            int emptySpaces = n-i;
+
+            for(int i2=1; i2<=emptySpaces; i2++){
+                System.out.print(" ");
+            }
+
+            while(step<=i){
+                System.out.print("#");
+                step++;
+            }
+
+            System.out.print("\n");
+
+        }
