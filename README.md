@@ -10,8 +10,8 @@
 
 ## Algorithms
 
-| Problem  | Solution | Obs
-| ------------- | ------------- | ------------- | 
+| Problem  | Solution | Level | Obs
+| ------------- | ------------- | ------------- | ------------- | 
 | [A very big sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [Java 8](algorithms/java8/a-very-big-sum.java) |
 | [Birthday cake candles](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [Java 8](algorithms/java8/birthday-cake-candles.java) |
 | [Compare the triplets](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [Java 8](algorithms/java8/compare-the-triplets.java) |
