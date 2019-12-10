@@ -4,7 +4,7 @@
 
 | Problem  | Solution | Obs
 | ------------- | ------------- | ------------- | 
-| A very big sum | [Java 8](algorithms/java8/a-very-big-sum.java)  |
+| [A very big sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [Java 8](algorithms/java8/a-very-big-sum.java) |
 |  |   |
 
 ## SQL
