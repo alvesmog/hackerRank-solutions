@@ -1,0 +1,13 @@
+/*
+Enter your query here.
+Please append a semicolon ";" at the end of the query and enter your query in a single line to avoid error.
+*/
+SELECT * FROM (SELECT city c, length(city) l
+FROM   station
+ORDER BY l DESC, c ASC)
+WHERE ROWNUM = 1;
+
+SELECT * FROM (SELECT city c, length(city) l
+FROM   station
+ORDER BY l ASC, c ASC)
+WHERE ROWNUM = 1;
