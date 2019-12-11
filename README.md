@@ -37,6 +37,8 @@
 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)  | [Oracle](sql/oracle/Revising-the-Select-Query-I)  |
 | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)  | [Oracle](sql/oracle/Revising-the-Select-Query-II)  |
 | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem)  | [Oracle](sql/oracle/Select-All)  |
+| [Select by ID](https://www.hackerrank.com/challenges/select-by-id/problem)  | [Oracle](sql/oracle/Select-by-ID)  |
+| [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem)  | [Oracle](sql/oracle/japanese-cities-attributes)  |
 
 
 
