@@ -43,6 +43,9 @@
 | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem)  | [Oracle](sql/oracle/japanese-cities-namess)  | Easy |
 | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem)  | [Oracle](sql/oracle/weather-observation-station-1)  | Easy |
 | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem)  | [Oracle](sql/oracle/weather-observation-station-3)  | Easy |
+| [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem)  | [Oracle](sql/oracle/weather-observation-station-5)  | Easy |
+
+
 
 
 
