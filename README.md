@@ -40,6 +40,10 @@
 | [Select by ID](https://www.hackerrank.com/challenges/select-by-id/problem)  | [Oracle](sql/oracle/Select-by-ID)  | Easy |
 | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem)  | [Oracle](sql/oracle/japanese-cities-attributes)  | Easy |
 | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem)  | [Oracle](sql/oracle/japanese-cities-namess)  | Easy |
+| [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem)  | [Oracle](sql/oracle/weather-observation-station-1)  | Easy |
+
+
+
 
 
 
