@@ -29,7 +29,7 @@
 | [Simple array sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Java 8](algorithms/java8/simple-array-sum.java) | Easy |
 | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [Java 8](algorithms/java8/staircase.java) | Easy |
 | [Time conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | [Java 8](algorithms/java8/time-conversion.java) | Easy
-| [Grading](https://www.hackerrank.com/challenges/grading/problem) | [Java 8](algorithms/java8/grading.java) | 
+| [Grading](https://www.hackerrank.com/challenges/grading/problem) | [Java 8](algorithms/java8/grading.java) | Easy |
 
 
 
