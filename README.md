@@ -21,15 +21,15 @@
 | Problem  | Solution | Level | Obs
 | ------------- | ------------- | ------------- | ------------- | 
 | [A very big sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [Java 8](algorithms/java8/a-very-big-sum.java) | Easy |
-| [Birthday cake candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [Java 8](algorithms/java8/birthday-cake-candles.java) |
-| [Compare the triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Java 8](algorithms/java8/compare-the-triplets.java) |
-| [Diagonal difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | [Java 8](algorithms/java8/diagonal-difference.java) |
-| [Mini max sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Java 8](algorithms/java8/mini-max-sum.java) |
-| [Plus minus](https://www.hackerrank.com/challenges/plus-minus/problem) | [Java 8](algorithms/java8/plus-minus.java) |
-| [Simple array sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Java 8](algorithms/java8/simple-array-sum.java) |
-| [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [Java 8](algorithms/java8/staircase.java) |
-| [Time conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | [Java 8](algorithms/java8/time-conversion.java) |
-| [Grading](https://www.hackerrank.com/challenges/grading/problem) | [Java 8](algorithms/java8/grading.java) |
+| [Birthday cake candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [Java 8](algorithms/java8/birthday-cake-candles.java) | Easy |
+| [Compare the triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Java 8](algorithms/java8/compare-the-triplets.java) | Easy |
+| [Diagonal difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | [Java 8](algorithms/java8/diagonal-difference.java) | Easy |
+| [Mini max sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Java 8](algorithms/java8/mini-max-sum.java) | Easy |
+| [Plus minus](https://www.hackerrank.com/challenges/plus-minus/problem) | [Java 8](algorithms/java8/plus-minus.java) | Easy |
+| [Simple array sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Java 8](algorithms/java8/simple-array-sum.java) | Easy |
+| [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [Java 8](algorithms/java8/staircase.java) | Easy |
+| [Time conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | [Java 8](algorithms/java8/time-conversion.java) | Easy
+| [Grading](https://www.hackerrank.com/challenges/grading/problem) | [Java 8](algorithms/java8/grading.java) | 
 
 
 
@@ -51,8 +51,6 @@
 | [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem)  | [Oracle](sql/oracle/weather-observation-station-7)  | Easy |
 | [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem)  | [Oracle](sql/oracle/weather-observation-station-8)  | Easy |
 | [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem)  | [Oracle](sql/oracle/weather-observation-station-9)  | Easy |
-
-
 
 
 
