@@ -13,12 +13,12 @@ public class Solution {
 
         String result;
 
-        if(x1>x2 && v1>v2){
+        if(v1<=v2){
             result = "NO";
-        } else if (x2>x1 && v2>v1){
-            result = "NO";
-        } else {
+        } else if ((x2-x1)%(v2-v1)==0){
             result = "YES";
+        } else {
+            result = "NO";
         }
 
         return result;
