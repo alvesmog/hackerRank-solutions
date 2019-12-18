@@ -1,0 +1,99 @@
+import java.io.*;
+import java.math.*;
+import java.security.*;
+import java.text.*;
+import java.util.*;
+import java.util.concurrent.*;
+import java.util.function.*;
+import java.util.regex.*;
+import java.util.stream.*;
+import static java.util.stream.Collectors.joining;
+import static java.util.stream.Collectors.toList;
+
+class Result {
+
+    /*
+     * Complete the 'getTotalX' function below.
+     *
+     * The function is expected to return an INTEGER.
+     * The function accepts following parameters:
+     *  1. INTEGER_ARRAY a
+     *  2. INTEGER_ARRAY b
+     */
+
+    public static int getTotalX(List<Integer> a, List<Integer> b) {
+    
+    //As the problem does not state that the arrays are already ordered, or that we are safe to pick the last element of the first array and the first elemement of the second array and define them as the boundaries regardless of wether they're the highest number (first array) or the lowest (second array), we'll first order the arrays...
+
+    Collections.sort(a);
+    Collections.sort(b);
+
+    //Now take the last element of the 'a' and the first element of 'b'
+
+    int last = a.get(a.size() - 1); 
+    int first = b.get(0);
+
+    //We are going to create a new list with the numbers in between (inclusive)
+
+    List<Integer> inBetween = new ArrayList<Integer>();
+
+    //Populate that list
+
+    for(int i=last;i<=first;i++){
+        inBetween.add(i);
+    }
+
+    //Iterate over the list and remove the elements that don't satisfy the conditions
+
+    for(int i=0; i<inBetween.size();i++){
+
+        for(int j=0; j<a.size(); j++){
+            if(inBetween.get(i)%a.get(j)!=0){
+                inBetween.remove(i);
+            }
+        }
+
+        for(int k=0; k<b.size(); k++){
+            if(b.get(k)%inBetween.get(i)!=0){
+                inBetween.remove(i);
+            }
+        }
+
+    }
+
+    return inBetween.size();
+
+    }
+
+    }
+
+
+
+public class Solution {
+    public static void main(String[] args) throws IOException {
+        BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
+        BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
+
+        String[] firstMultipleInput = bufferedReader.readLine().replaceAll("\\s+$", "").split(" ");
+
+        int n = Integer.parseInt(firstMultipleInput[0]);
+
+        int m = Integer.parseInt(firstMultipleInput[1]);
+
+        List<Integer> arr = Stream.of(bufferedReader.readLine().replaceAll("\\s+$", "").split(" "))
+            .map(Integer::parseInt)
+            .collect(toList());
+
+        List<Integer> brr = Stream.of(bufferedReader.readLine().replaceAll("\\s+$", "").split(" "))
+            .map(Integer::parseInt)
+            .collect(toList());
+
+        int total = Result.getTotalX(arr, brr);
+
+        bufferedWriter.write(String.valueOf(total));
+        bufferedWriter.newLine();
+
+        bufferedReader.close();
+        bufferedWriter.close();
+    }
+}
