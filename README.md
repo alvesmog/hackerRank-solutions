@@ -10,7 +10,7 @@
 <br>
 
 #### Problems tackled so far: 27
-- **Languages:**
+-> **Languages:**
   -> **Java 8:** 11
   -> **SQL:** 14
 
