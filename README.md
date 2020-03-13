@@ -57,7 +57,8 @@
 | [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem)  | [Oracle](sql/oracle/weather-observation-station-7)  | Easy |
 | [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem)  | [Oracle](sql/oracle/weather-observation-station-8)  | Easy |
 | [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem)  | [Oracle](sql/oracle/weather-observation-station-9)  | Easy |
-
+| [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem)  | [Oracle](sql/oracle/weather-observation-station-10)  | Easy |
+| [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem)  | [Oracle](sql/oracle/weather-observation-station-11)  | Easy |
 
 
 
